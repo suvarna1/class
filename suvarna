@@ -1,0 +1,58 @@
+[1mdiff --git a/data.html b/data.html[m
+[1mindex d21a6b1..396f079 100644[m
+[1m--- a/data.html[m
+[1m+++ b/data.html[m
+[36m@@ -36,4 +36,5 @@[m [manimals</font></font></font></p>[m
+ <p style="margin-bottom: 0cm; line-height: 100%"><br>[m
+ </p>[m
+ </body>[m
+[31m-</html>[m
+\ No newline at end of file[m
+[32m+[m[32m</html>[m
+[32m+[m[32mHello suvarna[m
+[1mdiff --git a/data.html~ b/data.html~[m
+[1mnew file mode 100644[m
+[1mindex 0000000..d21a6b1[m
+[1m--- /dev/null[m
+[1m+++ b/data.html~[m
+[36m@@ -0,0 +1,39 @@[m
+[32m+[m[32m<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">[m
+[32m+[m[32m<html>[m
+[32m+[m[32m<head>[m
+[32m+[m	[32m<meta http-equiv="content-type" content="text/html; charset=utf-8">[m
+[32m+[m	[32m<title></title>[m
+[32m+[m	[32m<meta name="generator" content="LibreOffice 4.2.4.2 (Linux)">[m
+[32m+[m	[32m<meta name="created" content="20140828;144039610424564">[m
+[32m+[m	[32m<meta name="changed" content="20140828;144137274222714">[m
+[32m+[m	[32m<style type="text/css">[m
+[32m+[m	[32m<!--[m
+[32m+[m		[32m@page { margin: 2cm }[m
+[32m+[m		[32mp { margin-bottom: 0.25cm; line-height: 120% }[m
+[32m+[m	[32m-->[m
+[32m+[m	[32m</style>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body lang="en-IN" dir="ltr">[m
+[32m+[m[32m<p align="left" style="margin-bottom: 0cm; line-height: 100%"><font color="#0000ff"><font face="Monospace"><font size="2" style="font-size: 10pt">&lt;!</font></font></font><font color="#a31515"><font face="Monospace"><font size="2" style="font-size: 10pt">DOCTYPE[m
+[32m+[m[32m</font></font></font><font color="#0000ff"><font face="Monospace"><font size="2" style="font-size: 10pt">html&gt;</font></font></font></p>[m
+[32m+[m[32m<p align="left" style="margin-bottom: 0cm; line-height: 100%"><font color="#0000ff"><font face="Monospace"><font size="2" style="font-size: 10pt">&lt;</font></font></font><font color="#a31515"><font face="Monospace"><font size="2" style="font-size: 10pt">html</font></font></font><font color="#0000ff"><font face="Monospace"><font size="2" style="font-size: 10pt">&gt;</font></font></font></p>[m
+[32m+[m[32m<p align="left" style="margin-bottom: 0cm; line-height: 100%"><font color="#000000"><font face="Monospace"><font size="2" style="font-size: 10pt">	</font></font></font><font color="#0000ff"><font face="Monospace"><font size="2" style="font-size: 10pt">&lt;</font></font></font><font color="#a31515"><font face="Monospace"><font size="2" style="font-size: 10pt">head</font></font></font><font color="#0000ff"><font face="Monospace"><font size="2" style="font-size: 10pt">&gt;</font></font></font></p>[m
+[32m+[m[32m<p align="left" style="margin-bottom: 0cm; line-height: 100%"><font color="#000000"><font face="Monospace"><font size="2" style="font-size: 10pt">		</font></font></font><font color="#0000ff"><font face="Monospace"><font size="2" style="font-size: 10pt">&lt;</font></font></font><font color="#a31515"><font face="Monospace"><font size="2" style="font-size: 10pt">title</font></font></font><font color="#0000ff"><font face="Monospace"><font size="2" style="font-size: 10pt">&gt;</font></font></font></p>[m
+[32m+[m[32m<p align="left" style="margin-bottom: 0cm; line-height: 100%"><font color="#000000"><font face="Monospace"><font size="2" style="font-size: 10pt">			college</font></font></font></p>[m
+[32m+[m[32m<p align="left" style="margin-bottom: 0cm; line-height: 100%"><font color="#000000"><font face="Monospace"><font size="2" style="font-size: 10pt">		</font></font></font><font color="#0000ff"><font face="Monospace"><font size="2" style="font-size: 10pt">&lt;/</font></font></font><font color="#a31515"><font face="Monospace"><font size="2" style="font-size: 10pt">title</font></font></font><font color="#0000ff"><font face="Monospace"><font size="2" style="font-size: 10pt">&gt;</font></font></font></p>[m
+[32m+[m[32m<p align="left" style="margin-bottom: 0cm; line-height: 100%"><font color="#000000"><font face="Monospace"><font size="2" style="font-size: 10pt">	</font></font></font><font color="#0000ff"><font face="Monospace"><font size="2" style="font-size: 10pt">&lt;/</font></font></font><font color="#a31515"><font face="Monospace"><font size="2" style="font-size: 10pt">head</font></font></font><font color="#0000ff"><font face="Monospace"><font size="2" style="font-size: 10pt">&gt;</font></font></font></p>[m
+[32m+[m[32m<p align="left" style="margin-bottom: 0cm; line-height: 100%"><font color="#000000"><font face="Monospace"><font size="2" style="font-size: 10pt">	</font></font></font><font color="#0000ff"><font face="Monospace"><font size="2" style="font-size: 10pt">&lt;</font></font></font><font color="#a31515"><font face="Monospace"><font size="2" style="font-size: 10pt">body</font></font></font><font color="#0000ff"><font face="Monospace"><font size="2" style="font-size: 10pt">&gt;</font></font></font></p>[m
+[32m+[m[32m<p align="left" style="margin-bottom: 0cm; line-height: 100%"><font color="#000000"><font face="Monospace"><font size="2" style="font-size: 10pt">		</font></font></font><font color="#0000ff"><font face="Monospace"><font size="2" style="font-size: 10pt">&lt;</font></font></font><font color="#a31515"><font face="Monospace"><font size="2" style="font-size: 10pt">h2</font></font></font><font color="#0000ff"><font face="Monospace"><font size="2" style="font-size: 10pt">&gt;</font></font></font><font color="#000000"><font face="Monospace"><font size="2" style="font-size: 10pt">[m
+[32m+[m[32mstudent</font></font></font></p>[m
+[32m+[m[32m<p align="left" style="margin-bottom: 0cm; line-height: 100%"><font color="#000000"><font face="Monospace"><font size="2" style="font-size: 10pt">	</font></font></font><font color="#0000ff"><font face="Monospace"><font size="2" style="font-size: 10pt">&lt;/</font></font></font><font color="#a31515"><font face="Monospace"><font size="2" style="font-size: 10pt">h2</font></font></font><font color="#0000ff"><font face="Monospace"><font size="2" style="font-size: 10pt">&gt;</font></font></font></p>[m
+[32m+[m[32m<p align="left" style="margin-bottom: 0cm; line-height: 100%"><font color="#000000"><font face="Monospace"><font size="2" style="font-size: 10pt">	</font></font></font><font color="#0000ff"><font face="Monospace"><font size="2" style="font-size: 10pt">&lt;</font></font></font><font color="#a31515"><font face="Monospace"><font size="2" style="font-size: 10pt">p</font></font></font><font color="#0000ff"><font face="Monospace"><font size="2" style="font-size: 10pt">&gt;</font></font></font><font color="#000000"><font face="Monospace"><font size="2" style="font-size: 10pt">[m
+[32m+[m[32mbotany plants</font></font></font></p>[m
+[32m+[m[32m<p align="left" style="margin-bottom: 0cm; line-height: 100%"><font color="#000000"><font face="Monospace"><font size="2" style="font-size: 10pt">		zoology[m
+[32m+[m[32manimals</font></font></font></p>[m
+[32m+[m[32m<p align="left" style="margin-bottom: 0cm; line-height: 100%"><font color="#000000"><font face="Monospace"><font size="2" style="font-size: 10pt">	</font></font></font><font color="#0000ff"><font face="Monospace"><font size="2" style="font-size: 10pt">&lt;/</font></font></font><font color="#a31515"><font face="Monospace"><font size="2" style="font-size: 10pt">p</font></font></font><font color="#0000ff"><font face="Monospace"><font size="2" style="font-size: 10pt">&gt;</font></font></font></p>[m
+[32m+[m[32m<p align="left" style="margin-bottom: 0cm; line-height: 100%"><font color="#000000"><font face="Monospace"><font size="2" style="font-size: 10pt">	</font></font></font><font color="#0000ff"><font face="Monospace"><font size="2" style="font-size: 10pt">&lt;/</font></font></font><font color="#a31515"><font face="Monospace"><font size="2" style="font-size: 10pt">body</font></font></font><font color="#0000ff"><font face="Monospace"><font size="2" style="font-size: 10pt">&gt;</font></font></font></p>[m
+[32m+[m[32m<p align="left" style="margin-bottom: 0cm; line-height: 100%"><font color="#0000ff"><font face="Monospace"><font size="2" style="font-size: 10pt">&lt;/</font></font></font><font color="#a31515"><font face="Monospace"><font size="2" style="font-size: 10pt">html</font></font></font><font color="#0000ff"><font face="Monospace"><font size="2" style="font-size: 10pt">&gt;</font></font></font></p>[m
+[32m+[m[32m<p style="margin-bottom: 0cm; line-height: 100%"><br>[m
+[32m+[m[32m</p>[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
